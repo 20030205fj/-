@@ -1,0 +1,24 @@
+{
+#抖音来个关注：https://v.douyin.com/jCHePwA/
+#公众号配置
+# 公众号appId
+"app_id": "wx3be9dfb8323f944c",
+# 公众号appSecret
+"app_secret": "41a83c9e5a797b5ef2dfc35b33faa3f9",
+# 模板消息id
+"template_id": "NVENUMuK0A90OUGw5CTc00p_lVNlTqv5WY6ZsNDnL0U",
+# 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
+"user": ["olkhR50zSYMpOGayub7J5A45iFs8"，"olkhR5zMFVfZO1qwwyCz9dev23YM"],
+
+# 信息配置
+# 所在省份
+"province": "厦门",
+# 所在城市
+"city": "翔安区",
+# 生日1，修改name为对应需要显示的名字，如果生日为农历，在最前面加上r即可
+"birthday1": {"name": "小梁", "birthday": "r1997-07-20"},
+# 生日2
+"birthday2": {"name": "小蒋", "birthday": "1997-08-18"},
+# 在一起的日子，格式同上
+"love_date": "2022-01-01"
+}
